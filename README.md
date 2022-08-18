@@ -1,5 +1,7 @@
 # go-ddd
 
+![微信截图_20220523155729](https://user-images.githubusercontent.com/13362524/185306576-9670318b-2bc5-42a3-ab90-cba5d08cb871.png)
+
 <!-- DIRSTRUCTURE_START_MARKER -->
 <pre>
 go-ddd/
