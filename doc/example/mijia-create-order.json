@@ -1,0 +1,56 @@
+{
+  "orderNo": "MJ20260917001",
+  "orderStatus": 1,
+  "orderType": 1,
+  "storeCode": "STORE_MJ_001",
+  "orderTitle": "米家订单",
+  "orderPrice": 10196,
+  "payType": 2,
+  "discountPrice": 500,
+  "currency": 1,
+  "userId": 10086,
+  "userName": "mijia-buyer",
+  "userType": 2,
+  "recipient": "张三",
+  "mobile": "13800000000",
+  "address": "浙江省杭州市余杭区文一西路 969 号",
+  "invoiceName": "张三",
+  "invoiceDetails": "电子普通发票",
+  "feeAmountMap": {
+    "1": 1200,
+    "2": 500
+  },
+  "attachInfos": {
+    "channel": "mijia"
+  },
+  "skuInfos": [
+    {
+      "externalSkuId": "EXT_SKU_1001",
+      "externalSkuCode": "EXT-1001",
+      "skuName": "阳澄湖大闸蟹 4 对装",
+      "skuPayPrice": 2999,
+      "skuBuyAmount": 2
+    },
+    {
+      "externalSkuId": "EXT_SKU_1002",
+      "externalSkuCode": "EXT-1002",
+      "skuName": "316 不锈钢保温杯",
+      "skuPayPrice": 1599,
+      "skuBuyAmount": 1
+    },
+    {
+      "externalSkuId": "EXT_SKU_1003",
+      "externalSkuCode": "EXT-1003",
+      "skuName": "视频会员年卡（虚拟）",
+      "skuPayPrice": 990,
+      "skuBuyAmount": 1
+    },
+    {
+      "externalSkuId": "EXT_SKU_1004",
+      "externalSkuCode": "EXT-1004",
+      "skuName": "厨房三件套（组合）",
+      "skuPayPrice": 5999,
+      "skuBuyAmount": 1
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+# 编译产物
+/bin/
+/build/
+*.exe
+*.test
+*.out
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# 运行日志
+*.log
